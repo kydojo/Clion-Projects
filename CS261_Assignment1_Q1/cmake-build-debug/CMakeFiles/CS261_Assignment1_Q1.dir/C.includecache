@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kyle/CLionProjects/CS261_Assignment1_Q1/Q1.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+

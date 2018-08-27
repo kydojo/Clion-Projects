@@ -1,3 +1,0 @@
-C:/Users/Kyle/CLionProjects/CS261_Assingment1/cmake-build-debug/CMakeFiles/CS261_Assingment1.dir
-C:/Users/Kyle/CLionProjects/CS261_Assingment1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kyle/CLionProjects/CS261_Assingment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
